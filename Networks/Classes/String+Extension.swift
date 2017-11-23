@@ -9,6 +9,6 @@ import Foundation
 
 extension String {
     public func addSuffix() -> String {
-        return self + "——私有pod练习"
+        return self + "——私有pod练习(version：0.1.1)"
     }
 }
