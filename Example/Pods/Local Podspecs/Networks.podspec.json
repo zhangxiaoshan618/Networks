@@ -1,6 +1,6 @@
 {
   "name": "Networks",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A exercise of LocalPods.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/zhangxiaoshan618/Networks",
@@ -13,10 +13,11 @@
   },
   "source": {
     "git": "https://github.com/zhangxiaoshan618/Networks.git",
-    "tag": "0.1.0"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "Networks/Classes/**/*"
+  "source_files": "Networks/Classes/**/*",
+  "resources": "Networks/Assets/Images.xcassets"
 }

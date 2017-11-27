@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - Networks (0.1.0)
+  - Networks (0.1.2)
   - Nimble (7.0.3)
   - Nimble-Snapshots (6.3.0):
     - Nimble-Snapshots/Core (= 6.3.0)
@@ -26,7 +26,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  Networks: f9f9bb155339e45f0c46f01634b67c1de8fd9990
+  Networks: 595dea859cd6f49a3c6bac65ccb087050730b3d6
   Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
   Nimble-Snapshots: f5459b5b091678dc942d03ec4741cacb58ba4a52
   Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
